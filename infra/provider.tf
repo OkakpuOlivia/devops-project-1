@@ -1,4 +1,4 @@
 provider "aws" {
-  region                   = "eu-west-1"
-  #shared_credentials_files = ["C:/Users/dell/Downloads/okakpuolivia_accessKeys.csv"]
+  region                   = "eu-central-1"
+  #shared_credentials_files = ["/Users/olivia/.aws/credentials"]
 }
